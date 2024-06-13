@@ -1,2 +1,2 @@
 # automated_barcode_reader_drone
-I will upload the ROS system package soon...
+autonomous drone with barcode reader using dji tello combining node red
